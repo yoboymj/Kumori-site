@@ -1,0 +1,1 @@
+// Footer component code goes here
